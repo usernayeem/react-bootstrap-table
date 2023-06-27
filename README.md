@@ -11,7 +11,7 @@ This GitHub repository contains a ReactJS and Bootstrap table that gets user dat
 
 ## Live Preview
 
-https://react-bootstrap-table.netlify.app/
+https://restrap-table.netlify.app/
 
 
 ## Installation
