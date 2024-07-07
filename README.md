@@ -2,7 +2,7 @@
 
 ## Authors
 
- [@md5nayeem](https://www.github.com/md5nayeem)
+ [Md Nayeem](https://www.github.com/usernayeem)
 
 ## About
 
@@ -18,7 +18,7 @@ https://restrap-table.netlify.app/
 
 To install this application, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/md5nayeem/react-bootstrap-table`
+1. Clone this repository: `git clone https://github.com/usernayeem/react-bootstrap-table`
 2. Navigate to the project directory: `cd react-bootstrap-table`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
@@ -36,11 +36,6 @@ Contributions are welcome! If you would like to contribute to this project, foll
 3. Make your changes and commit them: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin my-new-branch`
 5. Submit a pull request
-
-## Feedback
-
-If you have any feedback, please reach out to me at https://www.linkedin.com/in/md5nayeem/
-
 
 ## License
 
